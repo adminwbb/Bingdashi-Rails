@@ -202,7 +202,7 @@ GEM
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (1.2.7)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.6.1)
     web-console (4.0.1)
@@ -237,7 +237,7 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   jquery-rails
   listen (>= 3.0.5, < 3.3)
-  pg (~> 1.2.3)
+  pg (>= 0.18, < 2.0)
   puma (~> 4.3.3)
   rails (~> 6.0.2)
   rubocop (~> 0.80.1)
